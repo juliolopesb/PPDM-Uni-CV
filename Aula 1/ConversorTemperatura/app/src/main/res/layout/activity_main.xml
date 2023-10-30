@@ -26,12 +26,13 @@
         android:id="@+id/temperatura"
         android:layout_width="258dp"
         android:layout_height="62dp"
-        android:layout_marginTop="63dp"
+        android:layout_marginTop="220dp"
         android:ems="10"
         android:hint="Introduza a temperatura em ºC"
         android:inputType="number|numberDecimal|numberSigned"
         android:minHeight="60dp"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.496"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView" />
 
@@ -40,11 +41,12 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="158dp"
-        android:layout_marginTop="53dp"
+        android:layout_marginTop="44dp"
         android:layout_marginEnd="158dp"
         android:gravity="center"
         android:text="Converter"
         app:layout_constraintEnd_toEndOf="@+id/textView"
+        app:layout_constraintHorizontal_bias="0.55"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/temperatura" />
 
@@ -53,13 +55,23 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginStart="3dp"
-        android:layout_marginTop="87dp"
-        android:textSize="30dp"
-        android:textColor="@color/red"
+        android:layout_marginTop="84dp"
         android:gravity="center"
         android:text=""
+        android:textColor="@color/red"
+        android:textSize="30dp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/botaoSubmeter" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="177dp"
+        android:layout_height="128dp"
+        android:layout_marginStart="40dp"
+        android:layout_marginBottom="56dp"
+        android:src="@drawable/temperature"
+        app:layout_constraintBottom_toTopOf="@+id/temperatura"
+        app:layout_constraintStart_toStartOf="@+id/temperatura" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
