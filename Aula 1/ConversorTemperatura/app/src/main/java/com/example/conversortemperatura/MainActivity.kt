@@ -17,7 +17,7 @@ class MainActivity : AppCompatActivity() {
             val valor = binding.temperatura.text.toString().toDouble()
             val converter = (9/5) * valor + 32
             binding.textView2.text = "${valor}ºC equivale a ${converter}ºF"
-
+            binding.temperatura.setText("")
             Toast.makeText(applicationContext, "${valor}ºC equivale a ${converter}ºF", Toast.LENGTH_LONG).show()
         }
     }
