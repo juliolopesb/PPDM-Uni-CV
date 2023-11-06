@@ -14,7 +14,7 @@ Utilizar o IDE [Android Studio](https://developer.android.com/studio) para compi
 # Exercício `Formulário utilizando LinearLayout`: 
     - Descrição: Aplicação Android que consiste em criar um Formulário utilizando o LinearLayout
     - Objetivo: Consolidar o conteúdo da aula teórica (Activity e Views)
-    - App Name: 
+    - App Name: Formulario_LinearLayout
 
 ## `Aula 2`
 
