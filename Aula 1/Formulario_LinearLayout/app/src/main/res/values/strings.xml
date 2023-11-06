@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Aula2</string>
+    <string name="nome">Nome:</string>
+    <string name="sexo">Sexo:</string>
+    <string name="email">Email:</string>
+    <string name="telefone">Telefone:</string>
+    <string name="preferencias">Preferências:</string>
+    <string name="musica">Música</string>
+    <string name="cinema">Cinema</string>
+    <string name="desporto">Desporto</string>
+    <string name="gastronomia">Gastronomia</string>
+    <string name="notificacoes">Ativar notificações</string>
+    <string name="hint_nome">Introduza o nome</string>
+    <string name="hint_email">Introduza o e-mail</string>
+    <string name="hint_telefone">Introduza o número de telefone</string>
+    <string name="sexo_masc">Masculino</string>
+    <string name="sexo_femin">Feminino</string>
+    <string name="botao_exibir">Exibir</string>
+    <string name="botao_limpar">Limpar</string>
+</resources>
