@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MonasBurger</string>
+    <string name="name">Mona\'s Burger</string>
+    <string name="ementa">Ementa</string>
+    <string name="quantidade">Quantidade</string>
+    <string name="botao_total">SubTotal</string>
+    <string name="botao_submeter">Submeter</string>
+    <string name="botao_voltar">Voltar</string>
+    <string name="bemvindo">Bem-vindo ao Mona\'s Burger</string>
+    <string name="hamburger">Hamburger</string>
+    <string name="cheeseburger">Cheeseburger</string>
+    <string name="fries">Batatas Fritas</string>
+    <string name="soda">Refrigerantes</string>
+    <string name="milkshake">Milkshake</string>
+    <string name="confeccionar">O seu pedido está a ser confecionado!</string>
+    <string name="wait">Por favor, aguarde um momento!</string>
+    <string name="pedido">O seu pedido:</string>
+</resources>

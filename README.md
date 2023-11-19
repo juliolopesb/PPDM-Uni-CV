@@ -26,7 +26,18 @@ Utilizar o IDE [Android Studio](https://developer.android.com/studio) para compi
 # Exercício `Formatador de Textos`: 
     - Descrição: Aplicação Android que permite aplicar formatações de estilo a textos introduzidos pelo utilizador.  
     - Objetivo: Consolidação do conteúdo da aula teórica (Botões e Eventos).
-    - APP Name: Conversor_Temperatura
+    - APP Name: Formatador_Textos
+
+## `Aula 3`
+# Exercício `Página Login e Navegação em Activities`: 
+    - Descrição: Formulário de Autenticação e Navegação para o página Home.  
+    - Objetivo: Consolidação do conteúdo da aula teórica (Intend e SplashScreen).
+    - APP Name: Formulario_Autenticacao
+
+# Exercício `Mona's Burger App`: 
+    - Descrição: Criar uma App de uma Hamburgaria com navegação entre 4 activities.  
+    - Objetivo: Consolidação do conteúdo da aula teórica (Intend e SplashScreen).
+    - APP Name: Monas_Burger
 
 ## Acknowledge:
 [@flaticon](https://www.flaticon.com/) - Os icons utilizados foram obtidos do flaticon. 
